@@ -21,7 +21,7 @@
 ## Pengumpulan
 - Upload kerjaan (folder hasil clone) pada github masing masing.
 - Pastikan repository public.
-- Kirim url repository kerjaan ke admin@svara.fm 
+- Kirim url repository kerjaan ke okki@svara.fm 
 
 ### Format email
 - Judul: Test Web Svara
