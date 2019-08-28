@@ -8,6 +8,8 @@ function ambilInfoArray(dataArray) {
   const dataObject = {}; //membuat variabel Object
 
   //tempat coding disini
+  dataObject.data = dataArray;
+  dataObject.panjangData = dataArray.length;
 
   return dataObject;
 }

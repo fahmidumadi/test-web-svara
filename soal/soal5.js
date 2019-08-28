@@ -11,6 +11,11 @@
 function nilaiTerbesar(angka1, angka2, angka3, angka4, angka5) {
   let besar = 0;
   //tempat coding disini
+  const dataAngka = [angka1, angka2, angka3, angka4, angka5];
+  for(var i = 0; i < dataAngka.length; i++){
+    if(dataAngka[i] > besar)
+      besar = dataAngka[i];
+  }
 
   return 'Nilai terbesar adalah: ' + besar;
 }

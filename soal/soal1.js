@@ -13,6 +13,10 @@ function membuatObject() {
   const objectSaya = {}; //membuat variabel Object
 
   //tempat coding disini
+  objectSaya.nama = "Fahmi";
+  objectSaya.alamat = "Bandung";
+  objectSaya.hobi = "Olahraga";
+  objectSaya.hp = "085320107514";
 
   return objectSaya;
 }

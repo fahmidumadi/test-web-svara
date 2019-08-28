@@ -11,6 +11,10 @@ function membuatArray(param1, param2, param3, param4) {
   const arraySaya = []; //membuat variabel Array
 
   //tempat coding disini
+  arraySaya.push(param1);
+  arraySaya.push(param2);
+  arraySaya.push(param3);
+  arraySaya.push(param4);
 
   return arraySaya;
 }
